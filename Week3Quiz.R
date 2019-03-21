@@ -59,8 +59,10 @@ debug(ls)
 
 # What happens when you next call the 'ls' function?
     
-# The 'ls' function will return an error.
-# Execution of the 'ls' function will suspend at the 4th line of the function and you will be in the browser.
-# Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.
-# You will be prompted to specify at which line of the function you would like to suspend execution and enter 
+# 1 The 'ls' function will return an error.
+# 2 Execution of the 'ls' function will suspend at the 4th line of the function and you will be in the browser.
+# 3 Execution of 'ls' will suspend at the beginning of the function and you will be in the browser.
+# 4 You will be prompted to specify at which line of the function you would like to suspend execution and enter 
 # the browser.
+
+# I think the answer is # 2.
